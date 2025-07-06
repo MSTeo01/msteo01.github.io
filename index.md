@@ -1,13 +1,18 @@
 ---
+title: Home
 ---
 
-## 🤷 What I do
+<div style="width: 100%;" markdown="1">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+<div style="width: 42%; float: left;">
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/Me.jpg" width="100%">
 
-## 🦕 What I've done before
+</div>
+
+<div style="margin-left: 46%; white-space: normal;" markdown="1"> 
+
+## Ming Senn Teo
 
 Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
 
