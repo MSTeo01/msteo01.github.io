@@ -2,13 +2,21 @@
 title: Home
 ---
 
-## Ming Senn Teo
+<div style="width: 100%;" markdown="1">
 
-Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
+<div style="width: 42%; float: left;">
 
-Amet commodo nulla facilisi nullam vehicula ipsum a arcu. Venenatis urna cursus eget nunc. Dui accumsan sit amet nulla facilisi morbi tempus. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Sem viverra aliquet eget sit amet tellus cras.
+<img src="assets/Me.jpg" width="100%">
 
-Sit amet tellus cras adipiscing enim eu turpis egestas pretium. Ipsum faucibus vitae aliquet nec. Ac auctor augue mauris augue neque gravida. Neque egestas congue quisque egestas.
+</div>
+
+<div style="margin-left: 46%; white-space: normal;" markdown="1"> 
+
+## About Me
+
+Nice to meet you! I'm Ming Senn, a data analyst from Malaysia.
+
+I'm a Data Science graduate from the University of California, Berkeley -- find out more about my course [here](https://cdss.berkeley.edu/dsus/academics/data-science-major). I am looking for full time roles in Singapore, the United Kingdom, or Australia.
 
 ## 👋🏻 Say hi
 
