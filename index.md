@@ -2,16 +2,6 @@
 title: Home
 ---
 
-<div style="width: 100%;" markdown="1">
-
-<div style="width: 42%; float: left;">
-
-<img src="assets/Me.jpg" width="100%">
-
-</div>
-
-<div style="margin-left: 46%; white-space: normal;" markdown="1"> 
-
 ## Ming Senn Teo
 
 Purus non enim praesent elementum facilisis. In aliquam sem fringilla ut. Hac habitasse platea dictumst vestibulum rhoncus est. Ut porttitor leo a diam sollicitudin.
