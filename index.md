@@ -20,8 +20,6 @@ I'm a Data Science graduate from the University of California, Berkeley -- find 
 
 It was 2020 when I first read an [article](https://pmc.ncbi.nlm.nih.gov/articles/PMC7498239/) about how the pandemic has drastically affected the environment in a positive light. Little did I know, this literature would inspire me to delve deeper into the messy, yet beautiful world of data and its intricacies.
 
-
-<br>
 <br>
 
 
