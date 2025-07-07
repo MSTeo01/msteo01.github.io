@@ -13,19 +13,19 @@ description: Data Analyst, UC Berkeley
 
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
-nav-links:
-  - name: Home
-    url: /
-    external: false
-  - name: Projects
-    url: /
-    external: false
-  - name: Contact
-    url: /
-    external: false
-  - name: Resume
-    url: /
-    external: false
+# nav-links:
+#   - name: Home
+#     url: /
+#     external: false
+#   - name: Projects
+#     url: /
+#     external: false
+#   - name: Contact
+#     url: /
+#     external: false
+#   - name: Resume
+#     url: /
+#     external: false
 
 # for the homepage image + big text next to it
 # greeting_image: /assets/Me.jpg
