@@ -18,6 +18,10 @@ Nice to meet you! I'm Ming Senn, a data analyst from Malaysia.
 
 I'm a Data Science graduate from the University of California, Berkeley -- find out more about my course [here](https://cdss.berkeley.edu/dsus/academics/data-science-major). I am looking for full time roles in Singapore, the United Kingdom, or Australia.
 
+</div>
+
+---
+
 <a name='projects'></a>
 
 ## Projects
@@ -25,6 +29,8 @@ I'm a Data Science graduate from the University of California, Berkeley -- find 
 #### TBD
 
 <a name='contact'></a>
+
+---
 
 ## Contact Me
 
