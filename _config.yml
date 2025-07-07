@@ -23,6 +23,9 @@ nav-links:
   - name: Contact
     url: /
     external: false
+  - name: Resume
+    url: /
+    external: false
 
 # for the homepage image + big text next to it
 # greeting_image: /assets/Me.jpg
