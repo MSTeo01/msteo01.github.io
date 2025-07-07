@@ -22,9 +22,13 @@ It was 2020 when I first read an [article](https://pmc.ncbi.nlm.nih.gov/articles
 
 </div>
 
+
+
+
 ---
 
 On this page: <a href="#projects">Projects</a> • <a href="#contact">Contact</a><br>
+Other links: <a href="assets/resume-name">Resume</a><br>
 Totally random: TBD
 
 ---
