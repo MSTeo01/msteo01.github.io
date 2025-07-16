@@ -39,15 +39,30 @@ Totally random: TBD
 **Traffic Accident Analysis**<br>
 
 <p>
-For our Statistical Inference Class, my groupmates and I sought to create some form of traffic accident duration model, which would provide an estimate of the time needed for traffic to flow again post-accident, based on the road conditions at the location of the accidents. We also wanted to investigate the causal impact of Arkansas's Act 784, which increased the speed limit from 70 mph to 75 mph, on traffic accidents across the state.
-<br />
-<br />
-We learnt to formulate real world problems into machine learning problems, and understand the scenarios in which supervised and unsupervised learning can be used, as well as the benefits and limitations that different machine learning models may have for different types of data.
+  For our Statistical Inference Class, my groupmates and I sought to create some form of traffic accident duration model, which would provide an estimate of the time needed for traffic to flow again post-accident, based on the road conditions at the location of the accidents. We also wanted to investigate the causal impact of Arkansas's Act 784, which increased the speed limit from 70 mph to 75 mph, on traffic accidents across the state.
+  <br />
+  <br />
+  We learnt to formulate real-world problems into machine learning problems, and understand the scenarios in which supervised and unsupervised learning can be used, as well as the benefits and limitations that different machine learning models may have for different types of data.
 </p>
 
 View the project [here](https://github.com/MSTeo01/traffic-accident-ml-analysis).
 
 <small> Skills: Causal Inference Analysis · Python (Programming Language) · Data Analysis · Predictive Analytics · Data Science · Regression Analysis </small>
+
+<br>
+
+**Ted Miguel's Computational Reproduction**<br>
+
+<p>
+  For our Data Science for Economists class, my groupmates and I sought to computationally reproduce a paper by a well-renowned economist in the world of economic development - Ted Miguel. The paper is "Non-economic factors in violence: Evidence from organized crime, suicides and climate in Mexico", which focuses on the potential interaction of violent behavior and temperature.
+  <br />
+  <br />
+  We learnt to break down the different contexts of an analytic paper with various datasets, and understand the intricacies of different statistical data tools (Python vs STATA) in which they can be used, as well as the benefits and limitations that different types of data work for either software tools.
+</p>
+
+View the project [here](https://github.com/MSTeo01/ted-miguel-computational-reproduction)
+
+<small> Skills: Python (Programming Language) · Data Analysis · Data Science · Stata · LaTeX · Quantitative Research </small>
 
 
 <a name='contact'></a>
