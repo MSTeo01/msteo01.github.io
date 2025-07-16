@@ -60,10 +60,28 @@ View the project [here](https://github.com/MSTeo01/traffic-accident-ml-analysis)
   We learnt to break down the different contexts of an analytic paper with various datasets, and understand the intricacies of different statistical data tools (Python vs STATA) in which they can be used, as well as the benefits and limitations that different types of data work for either software tools.
 </p>
 
-View the project [here](https://github.com/MSTeo01/ted-miguel-computational-reproduction)
+View the project [here](https://github.com/MSTeo01/ted-miguel-computational-reproduction).
 
 <small> Skills: Python (Programming Language) · Data Analysis · Data Science · Stata · LaTeX · Quantitative Research </small>
 
+<br>
+
+**Spam Email Classifier**
+
+<p>
+  This project employs NLP techniques (NLTK, sentiment analysis) to classify spam emails with a 94% accuracy rate. 
+  <br />
+  <br />
+  I used this project mainly to learn text sentiment, logistic regression, and to understand the classification model outputs.
+</p>
+
+View the project [here](https://github.com/MSTeo01/spam-email-classification).
+
+<small> Skills: Python (Programming Language) · Data Analysis · Feature Engineering · Exploratory Data Analysis · LaTeX </small>
+
+<br>
+
+**Housing Price Predictor**
 
 <a name='contact'></a>
 
