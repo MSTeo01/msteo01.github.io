@@ -39,10 +39,10 @@ Totally random: TBD
 **Traffic Accident Analysis**<br>
 
 <p>
-  For our Statistical Inference Class, my groupmates and I sought to create some form of traffic accident duration model, which would provide an estimate of the time needed for traffic to flow again post-accident, based on the road conditions at the location of the accidents. We also wanted to investigate the causal impact of Arkansas's Act 784, which increased the speed limit from 70 mph to 75 mph, on traffic accidents across the state.
+  For our Statistical Inference Class, my groupmates and I sought to investigate the causal impact of Arkansas's Act 784, which increased the speed limit from 70 mph to 75 mph, on traffic accidents across the state. To do this, we took a controlled state, which so happens to be the next neighbouring state, Mississippi, which shares many geographic and demographic affinities, but has chosen to stay the same speed limit of 70 mph.
   <br />
   <br />
-  We learnt to formulate real-world problems into machine learning problems, and understand the scenarios in which supervised and unsupervised learning can be used, as well as the benefits and limitations that different machine learning models may have for different types of data.
+  We learnt to formulate real-world problems into statistical/economic problems, and understand the scenarios in which different levels of demographic granularities can be interpreted.
 </p>
 
 View the project [here](https://github.com/MSTeo01/traffic-accident-ml-analysis).
@@ -66,7 +66,22 @@ View the project [here](https://github.com/MSTeo01/ted-miguel-computational-repr
 
 <br>
 
-**Spam Email Classifier**
+**Optimizing Traffic Accident Flow**<br>
+
+<p>
+  For our Data Mining & Analytics class, my groupmates and I sought to identify the key features and qualities that make for long traffic accident flows, which would provide an estimate of how long a traffic accident would block traffic, based on the surrounding road conditions and geographical area rather than past accidents.
+  <br />
+  <br />
+  We learnt to formulate real-world problems into machine learning problems, and understand the scenarios in which supervised and unsupervised learning can be used, as well as the benefits and limitations that different machine learning models may have for different types of data.
+</p>
+
+View the project [here](https://github.com/MSTeo01/spam-email-classification).
+
+<small> Skills: Python (Programming Language) · Data Analysis · Predictive Analytics · Data Science · Feature Engineering · Exploratory Data Analysis · Regression Analysis </small>
+
+<br>
+
+**Spam Email Classifier**<br>
 
 <p>
   This project employs NLP techniques (NLTK, sentiment analysis) to classify spam emails with a 94% accuracy rate. 
@@ -78,10 +93,6 @@ View the project [here](https://github.com/MSTeo01/ted-miguel-computational-repr
 View the project [here](https://github.com/MSTeo01/spam-email-classification).
 
 <small> Skills: Python (Programming Language) · Data Analysis · Feature Engineering · Exploratory Data Analysis · LaTeX </small>
-
-<br>
-
-**Housing Price Predictor**
 
 <a name='contact'></a>
 
