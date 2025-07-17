@@ -75,7 +75,7 @@ View the project [here](https://github.com/MSTeo01/ted-miguel-computational-repr
   We learnt to formulate real-world problems into machine learning problems, and understand the scenarios in which supervised and unsupervised learning can be used, as well as the benefits and limitations that different machine learning models may have for different types of data.
 </p>
 
-View the project [here](https://github.com/MSTeo01/spam-email-classification).
+View the project [here](https://github.com/MSTeo01/traffic-flow).
 
 <small> Skills: Python (Programming Language) · Data Analysis · Predictive Analytics · Data Science · Feature Engineering · Exploratory Data Analysis · Regression Analysis </small>
 
