@@ -2289,7 +2289,7 @@
     }
     window.addEventListener('hashchange', function () {
         var targetId = window.location.hash.slice(1) ||'home';
-        var targetSection = document.getElementById(targetId);
+        var targetSection = document.getElementById(targetId + '-section');
         // Only animate navigation to an actual page section. Ignore placeholder links.
         if (!targetSection || targetSection.tagName.toLowerCase() !=='section') return;
         if (reducedMotion) return;
