@@ -1751,17 +1751,21 @@
             this.$submit.disabled = false;
         }
     };
-    new form('form02', {
-        mode:'contact',
-        method:'ajax',
-        hid:'post-url',
-        success: {
-            mode: 2,
-            value: {
-                href:'#contact-done'
+    const contactForm = document.getElementById('form02');
+
+    if (contactForm) {
+        new form('form02', {
+            mode:'contact',
+            method:'ajax',
+            hid:'post-url',
+            success: {
+                mode: 2,
+                value: {
+                    href:'#contact-done'
+                },
             },
-        },
-    });
+        });
+    }
     (function() {
         new slideshowBackground('slideshow01', {
             target:'#slideshow01 .bg',
