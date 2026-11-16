@@ -67,6 +67,12 @@ strong {
 em {
     font - style: italic;
 }
+section {
+    display: none;
+}
+section: target {
+    display: block;
+}
 code {
     background - color: rgba(144, 144, 144, 0.25);
     border - radius: 0.25 em;
@@ -1488,12 +1494,12 @@ h1 span[style], h2 span[style], h3 span[style], p span[style], h1 strong, h2 str
                                                                                                                                                                                                                                                                         margin - bottom: 3 rem!important;
                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                     #image16.frame {
-                                                                                                                                                                                                                                                                        max - width: 100 % ;
-                                                                                                                                                                                                                                                                        width: 390 px;
+                                                                                                                                                                                                                                                                        max - width: 90 % ;
+                                                                                                                                                                                                                                                                        width: 350 px;
                                                                                                                                                                                                                                                                         transition: none;
                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                     #image16 img {
-                                                                                                                                                                                                                                                                        height: 100 % !important;object - fit: cover;object - position: center;width: 100 % !important;
+                                                                                                                                                                                                                                                                        height: 80 % !important;object - fit: cover;object - position: center;width: 100 % !important;
                                                                                                                                                                                                                                                                     }
                                                                                                                                                                                                                                                                     #image16.frame img {
                                                                                                                                                                                                                                                                         transition: none;
